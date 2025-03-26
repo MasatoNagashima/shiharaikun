@@ -1,4 +1,4 @@
-# スーパー支払い君　バックエンド
+# 支払いシステム　API
 本 API サーバーはDDD / Clean Argitecture に準拠している
 ## 環境構築
 
